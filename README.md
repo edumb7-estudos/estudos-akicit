@@ -95,7 +95,13 @@ README.md
 ## Limitações e próximos passos
 
 - O projeto usa SQLite local, sem autenticação e sem deploy online.
-- Como evolução futura, pode receber filtros, paginação, autenticação e frontend web.
+- Como evolução futura, pode receber filtros, paginação, autenticação e frontend web
+
+
+## Como executar
+
+pip install -r requirements.txt
+uvicorn app.main:app --reload
 
 ## Licença
 
