@@ -100,3 +100,32 @@ README.md
 ## Licença
 
 Uso acadêmico.
+
+
+## Como executar
+
+Instale as dependências:
+
+pip install -r requirements.txt
+
+Execute a aplicação:
+
+uvicorn app.main:app --reload
+
+
+## Como rodar os testes
+
+pytest
+
+
+## Funcionalidades
+
+- Criar tarefas
+- Listar tarefas
+- Atualizar tarefas
+- Deletar tarefas
+
+
+## Testes
+
+Os testes cobrem as operações principais do CRUD, incluindo cenários de sucesso e validação de dados.
