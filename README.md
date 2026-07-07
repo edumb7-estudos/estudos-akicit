@@ -129,3 +129,13 @@ pytest
 ## Testes
 
 Os testes cobrem as operações principais do CRUD, incluindo cenários de sucesso e validação de dados.
+
+
+## Documentação
+
+Além do código-fonte, o projeto inclui documentos produzidos durante as atividades de Gerência de Projetos de Software:
+
+- [Análise de Riscos](docs/analise_riscos.md)
+- [Resumo Executivo](docs/resumo_executivo.md)
+
+Esses documentos apresentam os principais riscos identificados no projeto, as estratégias de mitigação adotadas e um resumo executivo da análise realizada com apoio da Inteligência Artificial Generativa.
