@@ -4,6 +4,7 @@ def test_root_endpoint(client):
     assert response.status_code == 200
     assert response.json() == {"message": "Micro-API de tarefas em funcionamento."}
 
+# test: adicionar anotação nos testes
 
 def test_create_task(client):
     payload = {
