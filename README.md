@@ -137,5 +137,6 @@ Além do código-fonte, o projeto inclui documentos produzidos durante as ativid
 
 - [Análise de Riscos](docs/analise_riscos.md)
 - [Resumo Executivo](docs/resumo_executivo.md)
+- [Arquitetura (discovery + diagrams as code)](docs/arquitetura.md)
 
 Esses documentos apresentam os principais riscos identificados no projeto, as estratégias de mitigação adotadas e um resumo executivo da análise realizada com apoio da Inteligência Artificial Generativa.
